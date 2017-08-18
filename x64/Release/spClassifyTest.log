@@ -1,0 +1,9 @@
+﻿c:\externallibs\gmm-fisher\gmm.h(26): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\externallibs\gmm-fisher\gmm.h(26): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\externallibs\gmm-fisher\gmm.h(26): warning C4305: 'initializing' : truncation from 'double' to 'float'
+c:\externallibs\gmm-fisher\gmm.h(26): warning C4305: 'initializing' : truncation from 'double' to 'float'
+main.cpp(81): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+main.cpp(81): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+main.cpp(103): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+main.cpp(104): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+main.cpp(105): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
